@@ -283,7 +283,7 @@ User / Couple Profiles
 │ Voice Output / UI     │
 │ PT-BR / EN            │
 └───────────────────────┘
-
+```
 
 <br><br>
 
