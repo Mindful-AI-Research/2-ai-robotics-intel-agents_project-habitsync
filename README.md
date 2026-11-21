@@ -98,9 +98,11 @@
 >
 > ###  Related Project in this Series:
 >
-> 🔗 **[AI/ML Project 3 - Robotic Process Automation (RPA) on Cloud-Hosted Android Device](https://github.com/Mindful-AI-Research/3-ai-robotics-intel-agents_cloud-android-rpa)**
+> 🔗 **[Project 3 - Robotic Process Automation (RPA) on Cloud-Hosted Android Device](https://github.com/Mindful-AI-Research/3-ai-robotics-intel-agents_cloud-android-rpa)**
 >
 > A deep learning system for handwritten character recognition using PyTorch and Streamlit.
+>
+>
 
 <br><br><br><br>
 <!-- ========= END MAIN REPO / Projects REFERENCES ========= -->
