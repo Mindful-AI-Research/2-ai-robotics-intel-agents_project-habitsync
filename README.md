@@ -91,17 +91,17 @@
 >
 > This repository is part of the main ecosystem:
 >
-> ## 🧠 AI/ML ✦ Neural Networks  ✦ Hub   ✦
+> ## 🦾🤖🪽 Artificial Intelligence ✦ Robotics & Intelligent Agents  ✦ Hub   
 >
 > Explore the complete collection of projects, notebooks, research materials, analyses and interactive applications available in the central repository:
 >
-> 🔗 **[AI/ML ✦ Neural Networks ✦ Hub](https://github.com/Mindful-AI-Research/1-ai-ml_neural-networks_hub)**
+> 🔗 **[Artificial Intelligence ✦ Robotics & Intelligent Agents ✦ Hub]([https://github.com/Mindful-AI-Research/1-ai-ml_neural-networks_hub](https://github.com/Mindful-AI-Research/1-ai-robotics-intelligent-agents-consulting-hub/edit/main/README.md))**
 >
 > #
 >
 > ###  Related Project in this Series:
 >
-> 🔗 **[AI/ML Project 1 · Computer Vision · EMNIST Vision Intelligence](https://github.com/Mindful-AI-Assistants/2-project-ai-ml-emnist-vision-intelligence)**
+> 🔗 **[AI/ML Project 3 - Robotic Process Automation (RPA) on Cloud-Hosted Android Device](https://github.com/Mindful-AI-Research/3-ai-robotics-intel-agents_cloud-android-rpa)**
 >
 > A deep learning system for handwritten character recognition using PyTorch and Streamlit.
 
