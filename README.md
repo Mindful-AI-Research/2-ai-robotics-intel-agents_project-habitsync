@@ -4,12 +4,11 @@
 
 <br><br>
 
-#   [HabitSync](): AI Recommendation Agent  - [EXPLORATORY]()
+
+#  🦾🤖🪽 Project 2. [HabitSync]() ⤳ [AI Recommendation Agent]()  
 ###  **An AI agent that gives couples voice-guided, explainable recommendations for training and diet products.**
 
-<br><br>
-
-> 🚧 **Academic MVP — validated.** Full production-grade documentation, backend, and web app are part of an active, phased roadmap.
+####  *Academic MVP — validated.** Full production-grade documentation, backend, and web app are part of an active, phased roadmap.*
 
 <br><br>
 
