@@ -5,12 +5,29 @@
 <br><br>
 
 
-#  🦾🤖🪽 Project 2. [HabitSync]() ⤳ [AI Recommendation Agent]()  
-###  **An AI agent that gives couples voice-guided, explainable recommendations for training and diet products.**
+#   <p align="center"> 🦾🤖🪽 Project 2. [HabitSync]() ⤳ [AI Recommendation Agent]()  
+###  <<p align="center">"  **An AI agent that gives couples voice-guided, explainable recommendations for training and diet products.**
 
-####  *Academic MVP — validated.** Full production-grade documentation, backend, and web app are part of an active, phased roadmap.*
+####  <p align="center"> *Academic MVP — validated.** Full production-grade documentation, backend, and web app are part of an active, phased roadmap.*
 
 <br><br>
+
+
+
+<!-- ========= START TEASER ========= -->
+###### <p align="center">🦾 <em>Building machines that reason, act, and collaborate...</em> 🪽</p>
+
+###### <p align="center"><em>while humans remain the system’s most unpredictable variable.</em></p>
+
+### <p align="center">⚡️</p>
+
+<br>
+
+#
+
+<br><br>
+<!-- ========= END TEASER ========= -->
+
 
 <!-- ♡ Sponsor ····· ॐ Mindful AI -->
 <p align="center">
@@ -36,10 +53,12 @@
 <!-- ======================================= Start Institucional INFOR =========================================== -->
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
 [**School:**]() FACEI — Computer Science Department  <br>
-[**Course:**]() BSc in Human-Centered AI & Data Science • 6th Semester • 2026 <br>
-[**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  <br>
-**Prof. Dr.:** ✨ [Sandra Muniz Bozolan]() <br>
+[**Course:**]() BSc in Human-Centered AI & Data Science •  6th Semester • 2026 <br>
+[**Subject:**]()  Artificial Intelligence, Robotics & Intelligent Agents ⤳ Research & Consulting   <br>
+[**Extensionist Projects: 3**]() Robotic Process Automation (RPA) on Cloud-Hosted Android Devicest <br>
+**Prof. Dr.:** ✨ [Sandra Muniz Bozolan](https://www.linkedin.com/in/sandrabozolan/) <br>
 **Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
+
 
 <br><br>
 
@@ -63,48 +82,6 @@
 <br><br>
 <!-- ========= END!WARNING ========= -->
 
-
-<!-- ========= START Streamlit BADGE ========= -->
-
-<p align="center" style="margin: 0;">
-  <a href="" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/Streamlit%20Repository-Helipad%20Detector-1E293B?style=for-the-badge&logo=streamlit&logoColor=22D3EE&labelColor=1E293B&color=22D3EE" 
-      alt="Streamlit Repository Helipad Detector"
-      style="height: 38px; width: auto;"
-    />
-  </a>
-</p>
-<!-- ========= END Streamlit BADGE ========= -->
-
-<!-- ========= START React Presentation BADGE ========= -->
-
-<p align="center" style="margin: 0;">
-  <a href="https://scintillating-peony-b1f740.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/React%20Presentation-Slides%20and%20Overview-1E293B?style=for-the-badge&logo=react&logoColor=22D3EE&labelColor=1E293B&color=FF00FF"
-      alt="React Presentation Slides and Overview"
-      style="height: 32px; width: auto;"
-    />
-  </a>
-<!-- ========= END React Presentation BADGE ========= -->
-
-<!-- ========= START Data Analysis Report BADGE ========= -->
-  <a href="" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/Data%20Analysis-Report%20and%20PDF-1E293B?style=for-the-badge&logo=github&logoColor=FF00FF&labelColor=1E293B&color=22D3EE" 
-      alt="Data Analysis Report and PDF"
-      style="height: 32px; width: auto;"
-    />
-  </a>
-</p>
-<!-- ========= END Data Analysis Report BADGE ========= -->
-
-<br><br>
-
-#
-
-<br><br>
 
 
 
