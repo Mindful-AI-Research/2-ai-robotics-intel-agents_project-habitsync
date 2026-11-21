@@ -5,19 +5,22 @@
 <br><br>
 
 
-# <p align="center"> 🦾🤖🪽 Project 2. [HabitSync]() ⤳ [AI Recommendation Agent]()  
+## <p align="center"> 🦾🤖🪽 Project 2. [HabitSync]() ⤳ [AI Recommendation Agent]()  
 ### <p align="center">  **An AI agent that gives couples voice-guided, explainable recommendations for training and diet products.**
 
 ####  <p align="center"> *Academic MVP — validated.** Full production-grade documentation, backend, and web app are part of an active, phased roadmap.*
+
 
 <br><br>
 
 
 
 <!-- ========= START TEASER ========= -->
-###### <p align="center">🦾 <em>Building machines that reason, act, and collaborate...</em> 🪽</p>
+###### <p align="center">  **The “what's for dinner?”** argument ends today... 🪽</p>
 
-###### <p align="center"><em>while humans remain the system’s most unpredictable variable.</em></p>
+###### <p align="center"> ***HabitSync***: the AI that matches both your profiles</p>
+
+###### <p align="center">  Before the fridge does it for you !
 
 ### <p align="center">⚡️</p>
 
