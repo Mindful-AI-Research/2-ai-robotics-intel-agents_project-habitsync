@@ -10,10 +10,7 @@
 
 ####  <p align="center"> *Academic MVP — validated.** Full production-grade documentation, backend, and web app are part of an active, phased roadmap.*
 
-
 <br><br>
-
-
 
 <!-- ========= START TEASER ========= -->
 ###### <p align="center">  **The “what's for dinner?”** argument ends today... 🪽</p>
@@ -58,7 +55,7 @@
 [**School:**]() FACEI — Computer Science Department  <br>
 [**Course:**]() BSc in Human-Centered AI & Data Science •  6th Semester • 2026 <br>
 [**Subject:**]()  Artificial Intelligence, Robotics & Intelligent Agents ⤳ Research & Consulting   <br>
-[**Extensionist Projects: 3**]() Robotic Process Automation (RPA) on Cloud-Hosted Android Devicest <br>
+[**Extensionist Projects: 2**]() HabitSync: ⤳ AI Recommendation Agents <br>
 **Prof. Dr.:** ✨ [Sandra Muniz Bozolan](https://www.linkedin.com/in/sandrabozolan/) <br>
 **Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
 
