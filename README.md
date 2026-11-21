@@ -5,8 +5,8 @@
 <br><br>
 
 
-#   <p align="center"> 🦾🤖🪽 Project 2. [HabitSync]() ⤳ [AI Recommendation Agent]()  
-###  <<p align="center">"  **An AI agent that gives couples voice-guided, explainable recommendations for training and diet products.**
+# <p align="center"> 🦾🤖🪽 Project 2. [HabitSync]() ⤳ [AI Recommendation Agent]()  
+### <p align="center">  **An AI agent that gives couples voice-guided, explainable recommendations for training and diet products.**
 
 ####  <p align="center"> *Academic MVP — validated.** Full production-grade documentation, backend, and web app are part of an active, phased roadmap.*
 
@@ -83,13 +83,29 @@
 <!-- ========= END!WARNING ========= -->
 
 
+<!-- ========= START MAIN REPO / Projects REFERENCES ========= -->
+> [!TIP]
+>
+> This repository is part of the main ecosystem:
+>
+> ## 🧠 AI/ML ✦ Neural Networks  ✦ Hub   ✦
+>
+> Explore the complete collection of projects, notebooks, research materials, analyses and interactive applications available in the central repository:
+>
+> 🔗 **[AI/ML ✦ Neural Networks ✦ Hub](https://github.com/Mindful-AI-Research/1-ai-ml_neural-networks_hub)**
+>
+> #
+>
+> ###  Related Project in this Series:
+>
+> 🔗 **[AI/ML Project 1 · Computer Vision · EMNIST Vision Intelligence](https://github.com/Mindful-AI-Assistants/2-project-ai-ml-emnist-vision-intelligence)**
+>
+> A deep learning system for handwritten character recognition using PyTorch and Streamlit.
+
+<br><br><br><br>
+<!-- ========= END MAIN REPO / Projects REFERENCES ========= -->
 
 
-
-
-
-
-<br><br>
 
 ## Table of Contents
 
@@ -135,7 +151,13 @@ The recommendation engine combines:
 
 Every recommendation is accompanied by a bilingual **PT-BR / EN**, human-readable explanation, with optional voice output via **gTTS**.
 
-The project began as an academic case study, **"Assistente Inteligente de Recomendação"**, and is now being evolved into a portfolio-grade AI project.
+The project began as an academic case study, **"Assistente Inteligente de RecomendaçãUm Assistente Inteligente de Recomendação é um sistema que utiliza algoritmos avançados e inteligência artificial para analisar dados e fornecer sugestões personalizadas aos usuários. Ele pode ser aplicado em diversas áreas, como e-commerce, streaming de vídeo, música, notícias, e até mesmo em redes sociais, com o objetivo de aprimorar a experiência do usuário e aumentar o engajamento.
+
+The main function of an Intelligent Recommendation Assistant is to understand the preferences and behavior of each user in order to present products, content, or services that are most relevant and interesting to them. This is done through collaborative filtering techniques, content analysis, machine learning, and natural language processing, which allow the system to identify patterns and trends in the data.
+
+By offering personalized recommendations, the intelligent assistant can help users discover new items they might not find on their own, save time searching for products or information, and even influence their purchasing decisions. In addition, companies benefit by increasing sales, improving customer satisfaction, and strengthening relationships with their audience.
+
+In summary, an Intelligent Recommendation Assistant is a powerful tool that optimizes the interaction between users and digital platforms, making the experience more intuitive, efficient, and satisfactory for everyone involved.
 
 <br><br>
 
